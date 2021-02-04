@@ -1,0 +1,14 @@
+Elastic beanstalk'
+
+Download
+demoapp
+Enviornemnt  ST01
+Node.js
+noje.js 12
+5.2.5
+Upload your code
+choose - nide.zip
+
+
+version Version1
+
